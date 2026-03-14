@@ -1,0 +1,5 @@
+{
+  "name": "2933 Article Generator",
+  "description": "A 3-step AI content generation workflow using Google Gemini API to research, write, and restructure SEO-optimized articles from Excel data.",
+  "requestFramePermissions": []
+}
